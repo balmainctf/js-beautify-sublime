@@ -1,4 +1,8 @@
 # JS Beautify Wrapper for Sublime Text
+#1.浏览程序包
+#2.将下载的安装包放进去，改名字jsbeautify
+#3.重启sublime
+
 
 ##Installation
 
@@ -45,3 +49,6 @@ useful or working for you but you must keep the copyright notice and license. (M
 ## Credits
 * Written by Edwin Liu, <enginespot@gmail.com>
 * Get Idea from JsFormat Library by Davis Clark
+* 
+
+
