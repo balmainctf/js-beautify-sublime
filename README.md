@@ -3,6 +3,7 @@
 ##2.将下载的安装包放进去，改名字jsbeautify
 ##3.重启sublime
 
+#看我的博客：http://blog.csdn.net/libin_1/article/details/51446015
 
 ##Installation
 
