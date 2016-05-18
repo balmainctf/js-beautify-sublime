@@ -1,7 +1,7 @@
 # JS Beautify Wrapper for Sublime Text
-#1.浏览程序包
-#2.将下载的安装包放进去，改名字jsbeautify
-#3.重启sublime
+##1.sublime浏览程序包
+##2.将下载的安装包放进去，改名字jsbeautify
+##3.重启sublime
 
 
 ##Installation
